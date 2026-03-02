@@ -25,5 +25,6 @@ The dataset includes clinical information such as survival time, patient status,
 
 # How to run
 pip install -r requirements.txt
+
 streamlit run app/app_v2.py
 
